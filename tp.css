@@ -1,0 +1,10 @@
+body{
+    background-color: hsl(93, 17%, 90%);;
+}
+p{
+    color: white;
+    font-size: 16px;
+    background-image: url(images.jpeg);
+    background-attachment: fixed;
+    background-position-x: 100px 10px;
+}
